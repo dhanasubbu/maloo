@@ -1,0 +1,1 @@
+Maloo is a software for investors in the NSE. It has much needed, useful and time saving features like automatic daily price download, portfolio transaction logging and valuation (including value graphs), technical charting with support for various indicators and charts, stock result logging, watchlists, and fundamentals analysis.
